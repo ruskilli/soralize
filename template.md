@@ -59,6 +59,7 @@ the railing, string lights beginning to glow. Gentle breeze.
 - size: 1280x720
 - voiceover: Your work day begins before you even sit down.
 - background-sound: Quiet office ambience, soft keyboard clicks nearby.
+
 Maya sits down at her desk and opens a sleek laptop. She glances at the screen
 with quiet satisfaction and begins typing.
 [Action text: keep this single-purpose. One clear beat per scene gives Sora
@@ -73,6 +74,7 @@ voiceover and background-sound are both optional.]
 - duration: 8
 - size: 1280x720
 - background-sound: Gentle cafe ambience, espresso machine in the background.
+
 Daniel picks up a takeaway coffee cup at the counter and takes a slow first sip.
 He looks relaxed, gazing slightly off-camera.
 
@@ -83,6 +85,7 @@ He looks relaxed, gazing slightly off-camera.
 - size: 1280x720
 - voiceover: Sometimes the best ideas come when you step away.
 - voiceover-style: reflective and warm
+
 Maya leans against the rooftop railing, looking out over the city skyline.
 She turns to camera with a composed, natural smile.
 [voiceover-style overrides the global ## Voice style for this scene only.
@@ -93,6 +96,7 @@ Other per-scene overrides: voiceover-gender, voiceover-language, voiceover-accen
 - location: Modern Office
 - duration: 12
 - size: 1280x720
+
 Daniel walks through the office and pauses to glance at a large monitor showing
 a colourful graph. He nods with quiet approval.
 
