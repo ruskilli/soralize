@@ -1,0 +1,16 @@
+# Environment secrets
+.env
+
+# Project-specific storyboards (not part of the template repo)
+smart-home-day.md
+
+# Generated video output
+output/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
